@@ -1,10 +1,7 @@
 # scentscape-mapping
-[website](http://susiesyli.com/scentscape-mapping-boston/)
-
-
 3D interactive visualization of Boston's scentscape, referencing [Ex-formation as a method for mapping smellscapes](https://www.tandfonline.com/doi/abs/10.1080/20557132.2015.1163081?journalCode=rfcd20) and inspired by [Sensory Maps](https://sensorymaps.com/page/3/)
 
-see website for full process write-up
+see website for full process write-up:)
 
 ## 2D drafts 
 made with initial pen and paper sketch, then in illustrator 
